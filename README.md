@@ -1,5 +1,7 @@
 # Kubernetes-Zero-to-Hero
 Creating this repo with an intent to make Kubernetes easy for begineers. This is a work-in-progress repo.
+# For kubernetes Commands refer
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 
 ## Kubernetes Installation Using KOPS on EC2
 
