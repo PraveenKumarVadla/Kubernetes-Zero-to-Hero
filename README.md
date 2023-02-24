@@ -76,7 +76,8 @@ kops create cluster --name=demok8scluster.k8s.local --state=s3://kops-abhi-stora
 ```
 kops edit cluster myfirstcluster.k8s.local
 ```
-
+###TO CONFIGURE THIS DOMAIN IN ROUT53
+aws rout53 create-hosted-zone --name dev.example.com --caller-reference-1
 Step 12: Build the cluster
 
 ```
